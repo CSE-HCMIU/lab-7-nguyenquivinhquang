@@ -14,7 +14,7 @@
 #define SIZE 1000
 
 void ex1(char *str[],int n){
-	//your codes here
+	print("ab");
 }
 
 int main(int argc, char *argv[]) {
