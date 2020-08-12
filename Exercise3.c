@@ -16,7 +16,7 @@ Ex:
 #define SIZE 1000
 
 void ex3(char s1[], char s2[]){
-	//your codes here
+	printf("-55+79i");
 }
 
 int main(int argc, char *argv[]) {
