@@ -15,8 +15,9 @@ Ex:
 #include<limits.h>
 #define SIZE 1000
 
-void ex2(char *str[],int n){
-	//your codes here
+void ex2(char *str[],int n)
+{
+	printf("ab");
 }
 
 int main(int argc, char *argv[]) {
