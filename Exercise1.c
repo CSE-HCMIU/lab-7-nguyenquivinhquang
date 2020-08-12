@@ -13,8 +13,9 @@
 #include<limits.h>
 #define SIZE 1000
 
-void ex1(char *str[],int n){
-	print("ab");
+void ex1(char *str[],int n)
+{
+	printf("ab");
 }
 
 int main(int argc, char *argv[]) {
