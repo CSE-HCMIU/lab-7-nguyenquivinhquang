@@ -17,7 +17,7 @@ Ex:
 
 void ex2(char *str[],int n)
 {
-	printf("ab");
+	printf("3");
 }
 
 int main(int argc, char *argv[]) {
